@@ -22,4 +22,5 @@ these terminologies can be observed in the below picture -
 
 ![<img width="394" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/56da36c2-65c9-4557-b54d-1d382d5e59d8">]!
 
-As seen above the PLL, SRAM,adc and dac together are called as the _Foundry IP'S_
+As seen above the PLL, SRAM,adc and dac together are called as the _Foundry IP'S_ and the blocks are called as _Macros_
+ 
