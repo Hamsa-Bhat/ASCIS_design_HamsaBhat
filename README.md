@@ -13,7 +13,13 @@ Till now whatever we might have considered as a "CHIP" is actually called a PACK
 ![<img width="306" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/803b43ba-a4e7-41e5-b34f-fd98356a311e">!]
 
 - _**How to talk to computers?**_
+  
   Further opening up the chip shown in the above image, we find various components such as -
   - **PADS** - Used to send signals from the interior of the chip to the exterior and vice versa.
-  - **CORE** - This lies in the centre of the chip and contains all the digital logics sits.
+  - **CORE** - This lies in the centre of the chip and contains all the digital logics sits, and usually consists of SRAM,SoC,adc, PLL and more.
   - **DIE** - Is the size of the entire chip, we can also look at it like the perimeter or the boder of the entire chip.
+these terminologies can be observed in the below picture -
+
+![<img width="394" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/56da36c2-65c9-4557-b54d-1d382d5e59d8">]!
+
+As seen above the PLL, SRAM,adc and dac together are called as the _Foundry IP'S_
