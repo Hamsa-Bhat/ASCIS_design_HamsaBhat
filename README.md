@@ -13,4 +13,7 @@ Till now whatever we might have considered as a "CHIP" is actually called a PACK
 ![<img width="306" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/803b43ba-a4e7-41e5-b34f-fd98356a311e">!]
 
 - _**How to talk to computers?**_
-- Further opening up the chip shown in the above image
+  Further opening up the chip shown in the above image, we find various components such as -
+  - **PADS** - Used to send signals from the interior of the chip to the exterior and vice versa.
+  - **CORE** - This lies in the centre of the chip and contains all the digital logics sits.
+  - **DIE** - Is the size of the entire chip, we can also look at it like the perimeter or the boder of the entire chip.
