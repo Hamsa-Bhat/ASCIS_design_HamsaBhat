@@ -46,5 +46,8 @@ There are three very important parts which are present in the System Software wh
 **Assembler** - Takes the particular instructions and converts it into Binary language. This language goes to the Hardware and according to the commands in Binary it genereats its output.
 
 The entire process can be observed in the below picture. 
+
 ![<img width="543" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/746a4edb-3ecc-4cf0-a3a8-d088d1351349">]!
 
+The below image is also an example of an APP as it was mentioned in the lecture.
+![<img width="542" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/b4b71014-b3fa-4045-8065-5011da09e4e8">]!
