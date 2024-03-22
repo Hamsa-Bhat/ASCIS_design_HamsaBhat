@@ -24,4 +24,4 @@ these terminologies can be observed in the below picture -
 
 As seen above the PLL, SRAM,adc and dac together are called as the _Foundry IP'S_ and the blocks are called as _Macros_
 
- 
+## Introduction to RISC - V
