@@ -25,3 +25,9 @@ these terminologies can be observed in the below picture -
 As seen above the PLL, SRAM,adc and dac together are called as the _Foundry IP'S_ and the blocks are called as _Macros_
 
 ## Introduction to RISC - V
+
+If you want to execute the C - Program file whith a specific layout then you first need to compile the C - Program to the RISC - V, Which is further converted into machine language program (Binary language program) to be understood by the Computer hardware. The hardware description language is a must as it should be between the RISC - V and the Layot, as it implements the specifications given by the RISC - V and then goes to Layout. 
+
+![<img width="960" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/c287105e-a838-44f4-bf90-687af3716e13">]!
+
+
