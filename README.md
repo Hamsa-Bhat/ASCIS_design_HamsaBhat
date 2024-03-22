@@ -30,4 +30,9 @@ If you want to execute the C - Program file whith a specific layout then you fir
 
 ![<img width="960" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/c287105e-a838-44f4-bf90-687af3716e13">]!
 
+## From Software Applications to Hardware
 
+We all use apps such as Google, Excel, Youtube and many more, but how exactly do these apps work on our software?, you may ask.
+In simple words -->
+- the application Software enters into a box known as the "System Software" which converts the program to the Binarylanguage.
+  
