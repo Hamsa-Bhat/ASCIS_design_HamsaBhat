@@ -38,4 +38,5 @@ In simple words -->
 - the application Software enters into a box known as the "System Software" which converts the program to the Binarylanguage.
 
 There are three very important parts which are present in the System Software which are - **_OS, Compiler and the Assembler._**
+
 **OS** - Handles IO operations, Stores memories and another important role of this component is to take the app and convert it into the respective Assembly language program further into the Binary language. 
