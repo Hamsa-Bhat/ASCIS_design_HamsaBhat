@@ -40,3 +40,11 @@ In simple words -->
 There are three very important parts which are present in the System Software which are - **_OS, Compiler and the Assembler._**
 
 **OS** - Handles IO operations, Stores memories and another important role of this component is to take the app and convert it into the respective Assembly language program further into the Binary language. 
+
+**Compiler** - Takes the C++, Java languages and is converted into Instructions, which depends on what kind of software it is.
+
+**Assembler** - Takes the particular instructions and converts it into Binary language. This language goes to the Hardware and according to the commands in Binary it genereats its output.
+
+The entire process can be observed in the below picture. 
+![<img width="543" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/746a4edb-3ecc-4cf0-a3a8-d088d1351349">]!
+
