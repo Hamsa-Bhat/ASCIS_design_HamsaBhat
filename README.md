@@ -51,3 +51,12 @@ The entire process can be observed in the below picture.
 
 The below image is also an example of an APP as it was mentioned in the lecture.
 ![<img width="542" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/b4b71014-b3fa-4045-8065-5011da09e4e8">]!
+
+Here we see the entire flow of how it works - 
+![<img width="585" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/fd69ee48-8ca2-4256-8660-9b4516882ae5">]!
+
+##SoC design and OpenLANE - Mohamed Shalan
+
+There are some important things which we MUST have from the starting to create an ASIC design such as - RTL IP's, EDA Tools and PDK DATA 
+
+PDK is basically the interface between the FAB and the designers, PDK -Process design knit 
