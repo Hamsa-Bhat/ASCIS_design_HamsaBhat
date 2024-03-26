@@ -60,3 +60,25 @@ Here we see the entire flow of how it works -
 There are some important things which we MUST have from the starting to create an ASIC design such as - RTL IP's, EDA Tools and PDK DATA 
 
 PDK is basically the interface between the FAB and the designers, PDK -Process design knit 
+
+![<img width="357" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/a7395553-da1e-4110-9c7b-0a6ae4a179b3">]!
+
+This is the simplified RTL to GDSII flow, which has major implementation steps such as Synthesis, Floor/power Planning, Placement, Clock Tree synthesis, Routing and finally sign off
+
+![<img width="558" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/7a37dc19-67ab-494c-91a9-cedd10f99900">]!
+
+Synthesis is the first step in an ASIC floor. The synthesis converts RTL into circuits which are made out of components.
+
+![<img width="375" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/9b32c424-6fb3-4d89-a94b-0147acd316dc">]!
+
+Floor and Power planning - The main goal here is to exactly plan the silicon area to make the chip efficient and in the Macro floor planning the Chip die is partioned between different chip components.
+
+![<img width="357" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/fee2e41d-41fd-4d6b-8ea7-0c0b7698d6ba">]!
+
+Power Planning - Power network is constructed and the power network is constructed and the power pens are connected to ll the componets and these structers are important to reduce the resistance and reduce the voltage drop, if its needed. Due to these staying on the upper metal they are thicker than the rest hence low amount of resistance is present.
+
+![<img width="373" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/37f1efb6-b432-42a4-a051-243c63f9cbe0">]!
+
+
+
+
