@@ -112,9 +112,11 @@ The flow starts form the Design RTL and ends with the end product (GDSII)
 ![<img width="563" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/4680a3ca-2dac-44f6-bb18-b2236ff14262">]!
 
 -Physical Implementation
+
 ![ <img width="554" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/ef99b21d-8f12-4c7e-9ef1-e59e803c1362">]!
 
 when a metal wire is fabricatted and can act as an antenna, as an Antenna it collects charges which can damage Transistor gates 
+
 ![<img width="550" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/5776bb24-f624-4b06-b530-540e3d8d2760">]!
 
 there are 2 solutions while dealing with Antenna rules violations - 
