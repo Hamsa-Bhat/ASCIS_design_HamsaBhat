@@ -85,6 +85,7 @@ Open source PDK (OpenLANE), developed by efabless. OpenLANE converts the RTLI in
 
 ![<img width="395" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/7ddfb856-67e5-43a5-898e-91e492de2919">]!
 
+
 ![<img width="398" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/68dcfea0-3dc8-449a-8f65-51baf3183344">]!
 
 striVe 2 is identical along with striVe and striVe 2a is similar to striVe 2 and so on.
