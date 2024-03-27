@@ -90,6 +90,16 @@ Open source PDK (OpenLANE), developed by efabless. OpenLANE converts the RTLI in
 striVe 2 is identical along with striVe and striVe 2a is similar to striVe 2 and so on.
 
 **Main goal of OpenLANE** 
-is to produce clean GDSII tools (no human in the loop), along with no LVS violations, DRC violations, Timing violations.
+
+To produce clean GDSII tools (no human in the loop), along with no LVS violations, DRC violations, Timing violations.
+This Softawre can be used to harden the Macros and Chips.
+
+## Introduction to OpenLANE detailed ASIC design flow 
+
+The flow starts form the Design RTL and ends with the end product (GDSII)
+![<img width="397" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/ac757148-1b5b-4a9c-9290-52a984a310a7">]!
+
+### Synthesis exploration 
+
 
 
