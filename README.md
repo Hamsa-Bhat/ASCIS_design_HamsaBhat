@@ -122,6 +122,8 @@ there are 2 solutions while dealing with Antenna rules violations -
 - Bridging top metal layers
 - Instert Antenna diodes 
 
+![<img width="519" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/d4dedd00-859d-487b-8998-b382690a33f3">]!
+
 
 
 
