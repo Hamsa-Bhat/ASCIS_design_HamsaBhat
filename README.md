@@ -79,6 +79,17 @@ Power Planning - Power network is constructed and the power network is construct
 
 ![<img width="373" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/37f1efb6-b432-42a4-a051-243c63f9cbe0">]!
 
+## Introduction to OpenLANE and Strive chipsets
 
+Open source PDK (OpenLANE), developed by efabless. OpenLANE converts the RTLI into GDSII, striVE is basically the family of open everything - Open PDK, Open RTL, Open EDA
+
+![<img width="395" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/7ddfb856-67e5-43a5-898e-91e492de2919">]!
+
+![<img width="398" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/68dcfea0-3dc8-449a-8f65-51baf3183344">]!
+
+striVe 2 is identical along with striVe and striVe 2a is similar to striVe 2 and so on.
+
+**Main goal of OpenLANE** 
+is to produce clean GDSII tools (no human in the loop), along with no LVS violations, DRC violations, Timing violations.
 
 
