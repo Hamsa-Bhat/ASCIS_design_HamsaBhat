@@ -99,7 +99,9 @@ This Softawre can be used to harden the Macros and Chips.
 The flow starts form the Design RTL and ends with the end product (GDSII)
 ![<img width="397" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/ac757148-1b5b-4a9c-9290-52a984a310a7">]!
 
-### Synthesis exploration 
+- Synthesis exploration used to genreate reports based on the delay and area is affected.
+![<img width="404" alt="image" src="https://github.com/Hamsa-Bhat/ASCIS_design_HamsaBhat/assets/163815218/b680107c-8544-4888-9e2e-9b66f4142bb0">]!
+
 
 
 
